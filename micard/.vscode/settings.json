@@ -1,0 +1,5 @@
+{
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.hotReloadProgress": "statusBar"
+}
